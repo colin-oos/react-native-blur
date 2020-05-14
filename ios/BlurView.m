@@ -116,8 +116,6 @@
     if ([self.blurType isEqual: @"ultraThinMaterialLight"]) return UIBlurEffectStyleSystemUltraThinMaterialLight;
     #endif
   #endif
-  
-  #endif
 
   return UIBlurEffectStyleDark;
 }
